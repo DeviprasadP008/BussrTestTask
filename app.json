@@ -1,0 +1,13 @@
+{
+  "app": {
+    "name": "BussrTestTask",
+    "displayName": "BussrTestTask",
+    "theme": {
+      "background": "white",
+      "primary": "#E67E22",
+      "secondary": "#F1C40F",
+      "tertiary": "#3B3B98",
+      "fontColor": "#34495e"
+    }
+  }
+}

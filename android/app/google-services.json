@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "202639749951",
+    "project_id": "bussrtesttask",
+    "storage_bucket": "bussrtesttask.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:202639749951:android:fa1697ce8040109b01d98a",
+        "android_client_info": {
+          "package_name": "com.bussrtesttask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "202639749951-oll85jhi57f8kv5rh296u7phr2vmui69.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcz65gQxQVr-aqlAs_8pz-cwclPoOMbck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "202639749951-oll85jhi57f8kv5rh296u7phr2vmui69.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
